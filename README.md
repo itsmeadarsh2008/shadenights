@@ -7,4 +7,6 @@
 This extension will give you that athesic dark navy look that no other extension gives 🤫
 
 ![Screenshot](https://i.ibb.co/cCt2FfJ/screenshot.png)
-Markdown is not yet ready yet 😅
+Markdown is not ready yet 😅
+
+# `INSTALLATION FROM GITHUB NOT RECOMMENDED!!`
