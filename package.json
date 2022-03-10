@@ -1,0 +1,23 @@
+{
+    "name": "shadenights",
+    "displayName": "ShadeNights",
+    "description": "An Athesic Theme For Visual Studio Code 🔥",
+    "publisher": "ItsMeAdarsh",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shade Nights",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shade Nights-color-theme.json"
+            }
+        ]
+    }
+}
